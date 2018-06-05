@@ -1,3 +1,5 @@
+> Now moved to https://gitlab.com/lafwud/junk-mail/
+
 junk-mail
 =========
 
